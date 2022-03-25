@@ -2,6 +2,8 @@ Simple Arduino based CAN interface with display for Eletek FlatPack2 PSU's.
 
 Original code and credit goes to https://github.com/The6P4C/Flatpack2
 
+Slimmed and added voltage and display control, still need to add alarm and error codes to display
+
 Requires Adafruit SSD1306 library
 Also Requires mcp_can library
 
