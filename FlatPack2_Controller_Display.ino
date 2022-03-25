@@ -54,7 +54,7 @@ void setup()
   display.clearDisplay();
   display.display();
   
-  if (CAN.begin(MCP_ANY, CAN_125KBPS, MCP_8MHZ) == CAN_OK) 
+  if (CAN.begin(MCP_ANY, CAN_125KBPS, MCP_8MHZ) == CAN_OK) //Make sure to set clock frequency.  Tested on a 16mhz UNO, had to set at 8MHZ
   {
   } 
   else 
