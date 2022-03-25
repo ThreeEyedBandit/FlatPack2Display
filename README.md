@@ -5,7 +5,7 @@ Original code and credit goes to https://github.com/The6P4C/Flatpack2
 Slimmed and added voltage and display control, still need to add alarm and error codes to display
 
 Requires Adafruit SSD1306 library
-Also Requires mcp_can library
+ande mcp_can library
 
 CAN board
 https://www.amazon.com/gp/product/B087Z9KBXR/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
