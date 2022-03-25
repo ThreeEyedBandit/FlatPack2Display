@@ -5,4 +5,5 @@ Original code and credit goes to https://github.com/The6P4C/Flatpack2
 Requires Adafruit SSD1306 library
 Also Requires mcp_can library
 
-Quick note
+CAN board
+https://www.amazon.com/gp/product/B087Z9KBXR/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
